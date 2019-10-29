@@ -11,4 +11,5 @@ elif brand=='Budwiser':
 	print('without Budwiser my lif is wase')
 else:
 	print('Other brands are not recomented')
-
+ 	print ("Good senthil")
+        
